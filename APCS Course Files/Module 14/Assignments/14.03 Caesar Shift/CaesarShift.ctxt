@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=shift\ encryption
+comment0.target=void\ createShiftAlphabet(int,\ boolean)
+comment1.params=message
+comment1.target=java.lang.String\ encrypt(java.lang.String)
+comment2.params=message\ shift\ encryption
+comment2.target=java.lang.String\ getEncryption(java.lang.String,\ int,\ boolean)
+numComments=3

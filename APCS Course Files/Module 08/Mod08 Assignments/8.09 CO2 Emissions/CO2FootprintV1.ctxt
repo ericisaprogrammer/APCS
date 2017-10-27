@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CO2FootprintV1()
+comment0.text=\r\n\ Default\ constructor\ for\ the\ CO2FootprintV1\ class\r\n
+comment1.params=gallonsPerYear
+comment1.target=CO2FootprintV1(double)
+comment1.text=\r\n\ Mutator\ constructor\ for\ objects\ in\ the\ CO2FootprintV1\ class.\r\n\ Calculates\ yearly\ CO2\ emissions\ in\ pounds\ and\ English\ tons.\r\n\ @param\ gallonsPerYear\ yearly\ gasoline\ usage\ of\ a\ car\r\n
+comment2.params=
+comment2.target=double\ getGallonsPerYear()
+comment2.text=\r\n\ Getter\ method\ to\ return\ the\ yearly\ gasoline\ usage\ of\ a\ car\ (no\ parameters)\r\n
+comment3.params=
+comment3.target=double\ getPoundEmissions()
+comment3.text=\r\n\ Getter\ method\ to\ return\ the\ CO2\ emissions\ of\ a\ car\ in\ pounds\ (no\ parameters)\r\n\ @return\ the\ yearly\ CO2\ emissions\ of\ a\ car\ (pounds)\r\n
+comment4.params=
+comment4.target=double\ getTonEmissions()
+comment4.text=\r\n\ Getter\ method\ to\ return\ the\ CO2\ emissions\ of\ a\ car\ in\ English\ tons\ (no\ parameters)\r\n\ @return\ the\ yearly\ CO2\ emissions\ of\ a\ car\ (English\ tons)\r\n
+numComments=5

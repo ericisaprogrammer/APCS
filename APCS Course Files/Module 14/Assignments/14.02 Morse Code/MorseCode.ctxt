@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=text\ letters\ morse
+comment0.target=java.lang.String[]\ convertText(java.util.ArrayList,\ java.lang.String[],\ java.lang.String[])
+comment1.params=text
+comment1.target=java.util.ArrayList\ createArray(java.lang.String)
+numComments=2

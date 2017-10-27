@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ This\ class\ tests\ the\ Catapult\ class\r\n\ \r\n\ A\ Catapult\ object\ is\ created\ to\ hold\ 2\ double\ arrays.\r\n\ \r\n\ Print\ commands\ are\ used\ to\ format\ the\ desired\ values\ by\ directly\ calling\r\n\ convert(),\ calcLaunchValues(),\ getLaunchValues(),\ and\ reconvert().\r\n\ \r\n\ @author\ E.\ Osgood\r\n\ @version\ 2/28/16\r\n
+numComments=1

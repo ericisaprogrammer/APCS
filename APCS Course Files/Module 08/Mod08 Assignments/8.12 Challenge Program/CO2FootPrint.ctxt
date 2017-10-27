@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CO2FootPrint()
+comment0.text=\r\n\ Default\ constructor\ for\ the\ CO2FootPrint\ class\r\n
+comment1.params=gasoline\ electricity\ people\ paper\ plastic\ glass\ cans\ bulbs
+comment1.target=CO2FootPrint(double,\ double,\ int,\ boolean,\ boolean,\ boolean,\ boolean,\ int)
+comment1.text=\r\n\ Mutator\ constructor\ for\ objects\ in\ the\ CO2FootPrint\ class.\r\n\ @param\ gasoline\ gallons\ of\ gas\ used\ per\ year\r\n\ @param\ electricity\ KWH\ used\ per\ year\r\n\ @param\ people\ number\ of\ people\r\n\ @param\ paper\ whether\ or\ not\ they\ recycle\ paper\r\n\ @param\ plastic\ whether\ or\ not\ they\ recycle\ plastic\r\n\ @param\ glass\ whether\ or\ not\ they\ recycle\ glass\r\n\ @param\ cans\ whether\ or\ not\ they\ recycle\ cans\r\n\ @param\ bulbs\ number\ of\ bulbs\ replaced\ with\ energy\ efficient\ ones\r\n
+comment2.params=
+comment2.target=double\ calcYearlyWaste()
+comment2.text=\r\n\ Mutator\ method\ to\ return\ total\ CO2\ produced\ from\ waste\ (no\ parameters)\r\n
+comment3.params=
+comment3.target=double\ calcYearlyElectricityWaste()
+comment3.text=\r\n\ Mutator\ method\ to\ return\ total\ CO2\ produced\ from\ electricity\ (no\ parameters)\r\n
+comment4.params=
+comment4.target=double\ calcYearlyGasolineWaste()
+comment4.text=\r\n\ Mutator\ method\ to\ return\ total\ CO2\ produced\ from\ gasoline\ (no\ parameters)\r\n
+comment5.params=
+comment5.target=double\ calcRecyclingReduction()
+comment5.text=\r\n\ Mutator\ method\ to\ return\ total\ CO2\ reduction\ from\ recycling\ (no\ parameters)\r\n
+comment6.params=
+comment6.target=double\ calcBulbReduction()
+comment6.text=\r\n\ Mutator\ method\ to\ return\ total\ CO2\ reduction\ from\ replacing\ light\ bulbs\ (no\ parameters)\r\n
+comment7.params=
+comment7.target=double\ calcCO2Footprint()
+comment7.text=\r\n\ Mutator\ method\ to\ return\ total\ CO2\ produced\ per\ year\r\n
+numComments=8

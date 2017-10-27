@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=itemID\ itemName\ inStore\ price
+comment0.target=Item(int,\ java.lang.String,\ int,\ double)
+comment1.params=
+comment1.target=int\ getID()
+comment2.params=
+comment2.target=java.lang.String\ getItemName()
+comment3.params=
+comment3.target=int\ getInStore()
+comment4.params=
+comment4.target=double\ getPrice()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

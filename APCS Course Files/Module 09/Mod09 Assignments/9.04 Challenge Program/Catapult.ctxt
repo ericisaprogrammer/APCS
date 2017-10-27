@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Catapult()
+comment0.text=\r\n\ Default\ constructor\ for\ the\ Catapult\ class\r\n
+comment1.params=launchSpeed\ launchAngle
+comment1.target=Catapult(java.lang.Double[],\ java.lang.Double[])
+comment1.text=\r\n\ Constructor\ for\ objects\ in\ the\ Catapult\ class\r\n\ @param\ launchSpeed\ launch\ speeds\r\n\ @param\ launchAngle\ launch\ angles\r\n
+comment2.params=
+comment2.target=java.lang.Double[]\ getLaunchSpeed()
+comment2.text=\r\n\ Getter\ method\ to\ return\ launch\ speeds\ (no\ parameters)\r\n
+comment3.params=
+comment3.target=java.lang.Double[]\ getLaunchAngle()
+comment3.text=\r\n\ Getter\ method\ to\ return\ launch\ angles\ (no\ parameters)\r\n
+comment4.params=
+comment4.target=java.lang.Double[][]\ getLaunchValues()
+comment4.text=\r\n\ Getter\ method\ to\ return\ launch\ distances\ (no\ parameters)\r\n
+comment5.params=
+comment5.target=void\ convert()
+comment5.text=\r\n\ Mutator\ method\ to\ convert\ mph\ and\ degrees\ to\ mps\ and\ radians\ (no\ parameters)\r\n
+comment6.params=
+comment6.target=void\ reconvert()
+comment6.text=\r\n\ Mutator\ method\ to\ convert\ mps\ and\ radians\ to\ mph\ and\ degrees\ (no\ parameters)\r\n
+comment7.params=
+comment7.target=void\ calcLaunchValues()
+comment7.text=\r\n\ Mutator\ method\ to\ calculate\ launch\ distances\ (no\ parameters)\r\n
+numComments=8

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=a
+comment0.target=void\ printVotes(java.util.ArrayList)
+comment1.params=a
+comment1.target=int\ getTotal(java.util.ArrayList)
+comment2.params=a
+comment2.target=void\ printResults(java.util.ArrayList)
+comment3.params=a\ position\ insert
+comment3.target=java.util.ArrayList\ insertPosition(java.util.ArrayList,\ int,\ Candidate)
+comment4.params=a\ name\ insert
+comment4.target=java.util.ArrayList\ insertCandidate(java.util.ArrayList,\ java.lang.String,\ Candidate)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

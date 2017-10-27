@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CO2FromElectricity()
+comment0.text=\r\n\ Default\ constructor\ for\ the\ CO2FromElectricity\ class\r\n
+comment1.params=electricityBills\ pricePerKWH\ emissionsFactor
+comment1.target=CO2FromElectricity(java.util.ArrayList,\ java.util.ArrayList,\ double)
+comment1.text=\r\n\ Constructor\ for\ objects\ in\ the\ CO2FromElectricity\ class\r\n\ @param\ electricityBills\ cost\ of\ electricity\ during\ the\ months\r\n\ @param\ pricePerKWH\ cost\ of\ KWH\ during\ the\ months\r\n\ @param\ emissionsFactor\ emissions\ factor\ that\ is\ being\ used\r\n
+comment2.params=
+comment2.target=java.util.ArrayList\ getElectricityBills()
+comment2.text=\r\n\ Getter\ method\ to\ return\ the\ electricity\ bills\ (no\ parameters)\ \r\n
+comment3.params=
+comment3.target=java.util.ArrayList\ getPricePerKWH()
+comment3.text=\r\n\ Getter\ method\ to\ return\ the\ prices\ per\ KWH\ (no\ parameters)\r\n
+comment4.params=
+comment4.target=double\ getEmissionsFactor()
+comment4.text=\r\n\ Getter\ method\ to\ return\ the\ emissions\ factor\ (no\ parameters)\r\n
+comment5.params=
+comment5.target=double\ calcAverageElectricityBill()
+comment5.text=\r\n\ Mutator\ method\ to\ calculate\ the\ average\ electricity\ bill\ (no\ parameters)\r\n
+comment6.params=
+comment6.target=double\ calcAveragePricePerKWH()
+comment6.text=\r\n\ Mutator\ method\ to\ calculate\ the\ average\ price\ per\ KWH\ (no\ parameters)\r\n
+comment7.params=
+comment7.target=double\ calcEmissions()
+comment7.text=\r\n\ Mutator\ method\ to\ calculate\ CO2\ emissions\ in\ pounds\ (no\ parameters)\r\n
+numComments=8

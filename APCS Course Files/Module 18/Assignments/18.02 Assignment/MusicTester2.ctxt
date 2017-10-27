@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=a
+comment0.target=void\ printMusic(Music2[])
+comment1.params=a\ sort
+comment1.target=Music2[]\ insertionSort(Music2[],\ int)
+comment2.params=a\ toFind
+comment2.target=void\ searchTitle(Music2[],\ java.lang.String)
+comment3.params=a\ toFind
+comment3.target=void\ searchYear(Music2[],\ int)
+comment4.params=a\ toFind
+comment4.target=void\ searchSinger(Music2[],\ java.lang.String)
+comment5.params=a\ b\ l\ param
+comment5.target=void\ linearPrint(Music2[],\ Music2,\ int,\ int)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
